@@ -3,31 +3,12 @@ Spherical Speaker Enclosure for Dayton PS95-8 driver by AI-Speaker
 
 
 <div align="center">
-<img src="https://raw.github.com/sviete/AIS-3D-MODELS/master/AIS_Spherical_Speaker_Enclosure_For_-_Dayton_PS95-8/images/7.jpg" alt="apk image" width="80%"/>
+<img src="https://raw.github.com/sviete/AIS-3D-MODELS/master/AIS_Spherical_Speaker_Enclosure_For_-_Dayton_PS95-8/images/4.jpg" alt="apk image" width="80%"/>
 </div>
 
 
 
-                   .:                     :,
-,:::::::: ::`      :::                   :::
-,:::::::: ::`      :::                   :::
-.,,:::,,, ::`.:,   ... .. .:,     .:. ..`... ..`   ..   .:,    .. ::  .::,     .:,`
-   ,::    :::::::  ::, :::::::  `:::::::.,:: :::  ::: .::::::  ::::: ::::::  .::::::
-   ,::    :::::::: ::, :::::::: ::::::::.,:: :::  ::: :::,:::, ::::: ::::::, ::::::::
-   ,::    :::  ::: ::, :::  :::`::.  :::.,::  ::,`::`:::   ::: :::  `::,`   :::   :::
-   ,::    ::.  ::: ::, ::`  :::.::    ::.,::  :::::: ::::::::: ::`   :::::: :::::::::
-   ,::    ::.  ::: ::, ::`  :::.::    ::.,::  .::::: ::::::::: ::`    :::::::::::::::
-   ,::    ::.  ::: ::, ::`  ::: ::: `:::.,::   ::::  :::`  ,,, ::`  .::  :::.::.  ,,,
-   ,::    ::.  ::: ::, ::`  ::: ::::::::.,::   ::::   :::::::` ::`   ::::::: :::::::.
-   ,::    ::.  ::: ::, ::`  :::  :::::::`,::    ::.    :::::`  ::`   ::::::   :::::.
-                                ::,  ,::                               ``
-                                ::::::::
-                                 ::::::
-                                  `,,`
-
-
-Based on
-http://www.thingiverse.com/thing:2249300
+Based on http://www.thingiverse.com/thing:2249300
 Spherical Speaker Enclosure (Ported) - Dayton PS95-8 by B_Rich is licensed under the Creative Commons - Attribution - Non-Commercial license.
 http://creativecommons.org/licenses/by-nc/3.0/
 
