@@ -3,7 +3,7 @@
 The assumption of the project is to make an active speaker whose amplifier is powered from the AIS dom gate (5V available on the AIS dom gate board) and whose audio board will be controlled from the AIS system.
 
 <div align="center">
-<img src="https://github.com/sviete/AIS-3D-MODELS/blob/master/AIS_DEV_KIT_1_Spherical_Speaker_Dayton_PS95-8/images/1.jpg" alt="apk image" width="50%"/>
+<img src="https://github.com/sviete/AIS-3D-MODELS/blob/master/AIS_DEV_KIT_1_Spherical_Speaker_Dayton_PS95-8/images/1.jpg" alt="apk image" width="90%"/>
 </div>
 
 The design was made with care, and appropriate calculators were used to calculate the speaker capacity. The loudspeaker housing has also been professionally designed. The whole set was also auditioned and properly tuned.
