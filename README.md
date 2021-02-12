@@ -6,7 +6,7 @@
 1. [Spherical Speaker Dayton PS95-8](https://github.com/sviete/AIS-3D-MODELS/tree/master/AIS_DEV_KIT_1_Spherical_Speaker_Dayton_PS95-8)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/sviete/AIS-3D-MODELS/master/AIS_Spherical_Speaker_Enclosure_For_-_Dayton_PS95-8/images/1.jpg" alt="apk image" width="50%"/>
+<img src="https://github.com/sviete/AIS-3D-MODELS/blob/master/AIS_DEV_KIT_1_Spherical_Speaker_Dayton_PS95-8/images/4.jpg" alt="apk image" width="50%"/>
 </div>
 
 2. [Bracket to fix the AIS gate on the back of LCD](https://github.com/sviete/AIS-3D-MODELS/tree/master/AIS_Bracket_for_AIS_dom_gate)

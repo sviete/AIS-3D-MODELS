@@ -2,6 +2,10 @@
 
 The assumption of the project is to make an active speaker whose amplifier is powered from the AIS dom gate (5V available on the AIS dom gate board) and whose audio board will be controlled from the AIS system.
 
+<div align="center">
+<img src="https://github.com/sviete/AIS-3D-MODELS/blob/master/AIS_DEV_KIT_1_Spherical_Speaker_Dayton_PS95-8/images/1.jpg" alt="apk image" width="50%"/>
+</div>
+
 The design was made with care, and appropriate calculators were used to calculate the speaker capacity. The loudspeaker housing has also been professionally designed. The whole set was also auditioned and properly tuned.
 In our opinion, the loudspeaker sounds good and will play nicely on the desk. Bearing in mind the assumptions of the project, we believe that the achieved sound is optimal.
 As loudspeakers and sound quality are generally important to many people, we want to point out here that this is not a set for audiophiles or for publicizing mass events. If someone has a delicate ear and feels that the gold-plating layer of the audio cable plug is thin ... then to save disappointment and waste of money on parts for the set (which are not cheap), we suggest looking for another audio solution.
